@@ -3,7 +3,7 @@
 # React Native Assignment 2
 
 ## Description
-This project is a simple React Native application created using Expo CLI. The application displays a text "My name is YourName" with the following modifications:
+This project is a simple React Native application created using Expo CLI. The application displays a text "My name is David Kanda" with the following modifications:
 - The background color of the View component is changed.
 - The font size of the text is increased to 24.
 - The name "YourName" is made bold.
